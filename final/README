@@ -1,0 +1,4 @@
+The code is split into two script. The executable one is the method_exec.py.
+The method.py contains all the method related to data loading, processing, saving, scoring, ...
+The method_exec.py contains the implementation of the method using sk-learn and XGBoost (both required to execute the script, reference in the report).
+The script load and process the whole dataset and can therefore overload the RAM of the computer.
