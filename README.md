@@ -8,7 +8,7 @@ In the original publication of this repo I forgot to give explicit credit to the
 
 This project was carried out by 3 students from the University of Liège following a master's degree in biomedical engineering. 
 - Fanny BODART
-- Varya STIZHNEVA
+- Varya STRIZHNEVA
 - Julien BRANDOIT
 
 ## Details
